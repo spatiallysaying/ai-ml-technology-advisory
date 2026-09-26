@@ -1,4 +1,4 @@
-# AI/ML Technology Advisor | Computer Vision | GenAI | GeoAI
+# AI/ML Technology Advisor | Computer Vision | GenAI | GeoAI | Geospatial Intelligence
 
 ### Architecture, technical strategy and independent advisory
 
