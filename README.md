@@ -45,4 +45,4 @@ disclosed in advisory work.
 
 For a confidential discussion about a potential advisory engagement:
 
-**spatiallysaying@gmail.com**
+**spatiallysaying [at] gmail [dot] com**
