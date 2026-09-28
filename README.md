@@ -31,7 +31,8 @@ PhD | 20+ years of engineering experience | Patents | International publications
 
 Advisory can be arranged as a defined monthly retainer or a scoped technical
 assignment. See [services](advisory/services.md) and
-[engagement models](advisory/engagement-model.md).
+[engagement models](advisory/engagement-model.md). See also the
+[selected freelance case studies](advisory/case-studies.md).
 
 ## Confidentiality
 
